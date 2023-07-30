@@ -278,7 +278,7 @@ func Interface(con net.Conn) {
 		}
 	})
 
-	loginRegisterButton := widget.NewButton("New to Mattermost? Create an account.", func() {
+	loginRegisterButton := widget.NewButton("New to Chat App? Create an account.", func() {
 		w.SetContent(
 			container.NewVBox(
 				registerForm,
