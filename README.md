@@ -1,4 +1,4 @@
-# Online Chat Desktop App
+# GoChatty
 
 This is an online chat desktop application. In this application,
 - you can login or create an account,
